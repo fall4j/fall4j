@@ -3,7 +3,6 @@ web dev
 
 self taught lmao
 
-*   ✉️  You can contact me at [contact@toggled.me](mailto:contact@toggled.me)
 *   🧠  I'm learning Rust
 
 
