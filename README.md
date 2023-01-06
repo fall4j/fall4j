@@ -1,19 +1,13 @@
-web dev
--------
+<h3 align="center">a beginning developer / self-taught</h3>
 
-self taught lmao
-
-*   🧠  I'm learning Rust
-
-
-<a href="https://www.github.com/presum" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/presum?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
-
-### Skills 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 </p>
-                    
-### Badges
 
-<a href="https://github.com/presum" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=presum&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=presum&show_icons=true&locale=en" alt="presum" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=presum&" alt="presum" /></p>
+
