@@ -5,6 +5,8 @@ self taught lmao
 
 *   ✉️  You can contact me at [contact@toggled.me](mailto:contact@toggled.me)
 *   🧠  I'm learning Rust
+
+
 <a href="https://www.github.com/presum" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/presum?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
