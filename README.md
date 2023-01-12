@@ -1,5 +1,3 @@
-### <div align="center">yo, i'm presum.</div> 
-
 ![](https://komarev.com/ghpvc/?username=presum)
 ---
 <p align="center">
